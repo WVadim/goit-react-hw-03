@@ -9,7 +9,7 @@ const SearchBox = ({ filter, onSearchChange }) => (
   //   placeholder="Search contacts..."
   // />
   <div className={styles.searchBox}>
-    <p className={styles.searchP}>Find contact</p>
+    <p>Find contacts by name</p>
     <input
       className={styles.search}
       type="text"
