@@ -10,6 +10,7 @@ body {
   flex-direction: column;
   align-items: center;
   margin: 20px;
+  text-decoration-color: #333;
 }
 
 h1 {
