@@ -2,6 +2,23 @@
   width: 300px;
   padding: 8px;
   margin-bottom: 20px;
+  border: 1px solid black;
+  border-radius: 4px;
+}
+.searchBox {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+.searchBox label {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.search {
+  padding: 8px;
   border: 1px solid #ccc;
   border-radius: 4px;
 }
